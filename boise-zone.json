@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -116.2846474,
+          43.6049207
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boise",
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#0062ff",
+        "fill-opacity": 0.5
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -116.27427624317569,
+              43.61932914019219
+            ],
+            [
+              -116.31455472910129,
+              43.61932914019219
+            ],
+            [
+              -116.3142501658806,
+              43.5970008647449
+            ],
+            [
+              -116.27381939834498,
+              43.59038348767359
+            ],
+            [
+              -116.27427624317569,
+              43.61932914019219
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 1
+    }
+  ]
+}
